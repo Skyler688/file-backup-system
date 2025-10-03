@@ -1,0 +1,13 @@
+-Create the background process that will map and save the target dirs structure and look for changes.
+
+-Create separate tkinter windows for are you sure, schedule setup, and to display errors.
+
+-Figure out how to make a background task that can run independent from the GUI.
+
+-Add a checksum to the file transfer if flask dose not already handle that.
+
+
+---- LOW PRIORITY, IF YOU HAVE TIME ----
+-Figure out how to package the system into actual applications that can be downloaded and used like other local apps.
+
+-Make a download feature that allows you to download a target into a new directory. 
